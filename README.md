@@ -1,7 +1,7 @@
 # WordGame
 
 ## About Game
-The game was written using the unity game engine. The drawing of the cursor and many other objects in the game is mine. If add a different question database, questions will change.
+The game was written using the unity game engine. The drawing of the cursor and many other objects in the game is mine.
 
 [Play Game](https://meteahmetyakar.github.io/wordgame/).
 
